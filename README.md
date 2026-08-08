@@ -3,16 +3,16 @@
 <!-- Replace the URLs below with your GitHub-hosted image links -->
 <!-- ============================= -->
 <!--
-APP_ICON_URL=
-SCREENSHOT_1_URL=
-SCREENSHOT_2_URL=
-SCREENSHOT_3_URL=
-SCREENSHOT_4_URL=
+https://play-lh.googleusercontent.com/uMUlWdcUC_Q4-ohRiR1sK9rjihXL6za3qdE4lyyEmdBqA9hNLAzzDPb6y6tvdqMUx11L6HRJz9kLY0xQUI0Y3Bo=w480-h480=
+https://play-lh.googleusercontent.com/aj3aIcoGNRj_VmNFAIn01e4YuXqmxZgLsW7YSKgOE6G2QHiGgiA7RgearWSsdTTl_AuHODfmIsqu5cRF9XQr=w526-h296=
+https://play-lh.googleusercontent.com/AMrRJbw5rrU0Yu3Wx6oXIK_1oMUf9B6rklGZMmgWj2ZBfuPQ63XcuBhXl-i1yWWekX4J5SOXG9-jEDGK_zi7Pw=w526-h296=
+https://play-lh.googleusercontent.com/rDEXSOxdy3YIP-_oSvIFj20mmPp85QZPkO1j8hDE9PzOT3aWpJoAbWTscy1jXNLaSA0-ZxvNlolwqZOncnUfhQ=w526-h296=
+https://play-lh.googleusercontent.com/8DhEmS-0Sho9_jURd0aMEumSM5QdOvGCfU_jvwmF3vHWc6Tc_lYxjmGl9qo8ApHnD1PK_C-lJYu0n-T4Fok9Fg=w526-h296=
 -->
 
 <div align="center">
 
-<img src="APP_ICON_URL" alt="Image Background Eraser app icon" width="112" height="112" style="border-radius: 24px;" />
+<img src="https://play-lh.googleusercontent.com/uMUlWdcUC_Q4-ohRiR1sK9rjihXL6za3qdE4lyyEmdBqA9hNLAzzDPb6y6tvdqMUx11L6HRJz9kLY0xQUI0Y3Bo=w480-h480" alt="Image Background Eraser app icon" width="112" height="112" style="border-radius: 24px;" />
 
 <br/>
 
@@ -33,7 +33,7 @@ SCREENSHOT_4_URL=
   <img src="https://img.shields.io/badge/Get%20it%20on-Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=01875f&labelColor=f8f9fa" alt="Get it on Google Play" height="52"/>
 </a>
 &nbsp;&nbsp;
-<a href="./releases/latest">
+<a href="../../releases/latest">
   <img src="https://img.shields.io/badge/Download-GitHub%20Releases-181717?style=for-the-badge&logo=github&logoColor=white" alt="Download from GitHub" height="52"/>
 </a>
 
@@ -51,13 +51,13 @@ SCREENSHOT_4_URL=
 <table>
   <tr>
     <td align="center" width="30%">
-      <img src="SCREENSHOT_1_URL" alt="Image Background Eraser — home screen" width="200" style="border-radius: 28px; border: 8px solid #1a1a1a; box-shadow: 0 20px 40px rgba(0,0,0,0.15);" />
+      <img src="https://play-lh.googleusercontent.com/aj3aIcoGNRj_VmNFAIn01e4YuXqmxZgLsW7YSKgOE6G2QHiGgiA7RgearWSsdTTl_AuHODfmIsqu5cRF9XQr=w526-h296" alt="Image Background Eraser — home screen" width="200" style="border-radius: 28px; border: 8px solid #1a1a1a; box-shadow: 0 20px 40px rgba(0,0,0,0.15);" />
     </td>
     <td align="center" width="40%">
-      <img src="SCREENSHOT_2_URL" alt="Image Background Eraser — background removal in progress" width="230" style="border-radius: 32px; border: 8px solid #1a1a1a; box-shadow: 0 24px 48px rgba(0,0,0,0.2);" />
+      <img src="https://play-lh.googleusercontent.com/AMrRJbw5rrU0Yu3Wx6oXIK_1oMUf9B6rklGZMmgWj2ZBfuPQ63XcuBhXl-i1yWWekX4J5SOXG9-jEDGK_zi7Pw=w526-h296" alt="Image Background Eraser — background removal in progress" width="230" style="border-radius: 32px; border: 8px solid #1a1a1a; box-shadow: 0 24px 48px rgba(0,0,0,0.2);" />
     </td>
     <td align="center" width="30%">
-      <img src="SCREENSHOT_3_URL" alt="Image Background Eraser — transparent PNG result" width="200" style="border-radius: 28px; border: 8px solid #1a1a1a; box-shadow: 0 20px 40px rgba(0,0,0,0.15);" />
+      <img src="https://play-lh.googleusercontent.com/rDEXSOxdy3YIP-_oSvIFj20mmPp85QZPkO1j8hDE9PzOT3aWpJoAbWTscy1jXNLaSA0-ZxvNlolwqZOncnUfhQ=w526-h296" alt="Image Background Eraser — transparent PNG result" width="200" style="border-radius: 28px; border: 8px solid #1a1a1a; box-shadow: 0 20px 40px rgba(0,0,0,0.15);" />
     </td>
   </tr>
 </table>
@@ -160,12 +160,12 @@ Image Background Eraser is built around a single idea: background removal should
 <div align="center">
 <table>
   <tr>
-    <td align="center"><img src="SCREENSHOT_1_URL" alt="Image Background Eraser screenshot 1" width="220" style="border-radius: 16px; border: 1px solid #e5e5e5;" /></td>
-    <td align="center"><img src="SCREENSHOT_2_URL" alt="Image Background Eraser screenshot 2" width="220" style="border-radius: 16px; border: 1px solid #e5e5e5;" /></td>
+    <td align="center"><img src="https://play-lh.googleusercontent.com/aj3aIcoGNRj_VmNFAIn01e4YuXqmxZgLsW7YSKgOE6G2QHiGgiA7RgearWSsdTTl_AuHODfmIsqu5cRF9XQr=w526-h296" alt="Image Background Eraser screenshot 1" width="220" style="border-radius: 16px; border: 1px solid #e5e5e5;" /></td>
+    <td align="center"><img src="https://play-lh.googleusercontent.com/AMrRJbw5rrU0Yu3Wx6oXIK_1oMUf9B6rklGZMmgWj2ZBfuPQ63XcuBhXl-i1yWWekX4J5SOXG9-jEDGK_zi7Pw=w526-h296" alt="Image Background Eraser screenshot 2" width="220" style="border-radius: 16px; border: 1px solid #e5e5e5;" /></td>
   </tr>
   <tr>
-    <td align="center"><img src="SCREENSHOT_3_URL" alt="Image Background Eraser screenshot 3" width="220" style="border-radius: 16px; border: 1px solid #e5e5e5;" /></td>
-    <td align="center"><img src="SCREENSHOT_4_URL" alt="Image Background Eraser screenshot 4" width="220" style="border-radius: 16px; border: 1px solid #e5e5e5;" /></td>
+    <td align="center"><img src="https://play-lh.googleusercontent.com/rDEXSOxdy3YIP-_oSvIFj20mmPp85QZPkO1j8hDE9PzOT3aWpJoAbWTscy1jXNLaSA0-ZxvNlolwqZOncnUfhQ=w526-h296" alt="Image Background Eraser screenshot 3" width="220" style="border-radius: 16px; border: 1px solid #e5e5e5;" /></td>
+    <td align="center"><img src="https://play-lh.googleusercontent.com/8DhEmS-0Sho9_jURd0aMEumSM5QdOvGCfU_jvwmF3vHWc6Tc_lYxjmGl9qo8ApHnD1PK_C-lJYu0n-T4Fok9Fg=w526-h296" alt="Image Background Eraser screenshot 4" width="220" style="border-radius: 16px; border: 1px solid #e5e5e5;" /></td>
   </tr>
 </table>
 </div>
@@ -188,7 +188,7 @@ Download Image Background Eraser and create clean transparent images in seconds.
   <img src="https://img.shields.io/badge/Get%20it%20on-Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=01875f&labelColor=f8f9fa" alt="Get it on Google Play" height="52"/>
 </a>
 &nbsp;&nbsp;
-<a href="./releases/latest">
+<a href="../../releases/latest">
   <img src="https://img.shields.io/badge/Download-GitHub%20Releases-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Releases" height="52"/>
 </a>
 
@@ -206,11 +206,11 @@ This repository hosts the source code and release history for Image Background E
 
 <div align="center">
 
-<a href="./">
+<a href="../../">
   <img src="https://img.shields.io/badge/View-Source-24292e?style=for-the-badge&logo=github&logoColor=white" alt="View Source" />
 </a>
 &nbsp;&nbsp;
-<a href="./releases/latest">
+<a href="../../releases/latest">
   <img src="https://img.shields.io/badge/GitHub-Releases-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Releases" />
 </a>
 
@@ -254,7 +254,7 @@ Project structure may change as development continues.
 Install directly from Google Play — the recommended way to get the latest stable release.
 
 **GitHub Release**
-Download the latest APK from [GitHub Releases](./releases/latest) when an APK is available.
+Download the latest APK from [GitHub Releases](../../releases/latest) when an APK is available.
 
 <br/>
 
@@ -288,6 +288,6 @@ License information will be added here.
 
 Built for Android by Ateeq Develops.
 
-[Google Play](https://play.google.com/store/apps/details?id=com.ateeqdevelops.backgrounderaser) · [GitHub Releases](./releases/latest) · [Source Code](./)
+[Google Play](https://play.google.com/store/apps/details?id=com.ateeqdevelops.backgrounderaser) · [GitHub Releases](../../releases/latest) · [Source Code](../../)
 
 </div>
